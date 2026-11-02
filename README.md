@@ -5,7 +5,7 @@ Code and research paper for our project on predicting student academic burnout u
 ## Files
 
 - `Final_project.ipynb` — Colab notebook with the full analysis
-- `STUDENT_WELLNESS_INDEX_AND_BURNOUT_PREDICTION_MODEL.docx` — research paper
+
 
 ## How to run
 
